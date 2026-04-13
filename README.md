@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **gohardhuddi@gmail.com**
   
-- 📫 Visit my portfolio **https://ksportfolio-c3a4b.web.app/**
+- 📫 Visit my portfolio **https://khurram---portfolio.vercel.app/**
   
 
 <h3 align="left">Connect with me:</h3>
