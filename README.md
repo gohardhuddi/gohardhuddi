@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Android, iOS , Desktop Applications**
 
-- 📫 How to reach me **gohardhuddi@gmail.com**
+- 📫 How to reach me **khurramkhandev765@gmail.com**
   
 - 📫 Visit my portfolio **https://khurram---portfolio.vercel.app/**
   
